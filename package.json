@@ -1,0 +1,23 @@
+{
+  "name": "hypervdux",
+  "version": "0.1.0",
+  "description": "A vdux wrapper for hyperx",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danleavitt0/hypervdux.git"
+  },
+  "author": "danleavitt0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danleavitt0/hypervdux/issues"
+  },
+  "homepage": "https://github.com/danleavitt0/hypervdux#readme",
+  "dependencies": {
+    "hyperx": "^1.2.0",
+    "virtex-element": "^0.3.0"
+  }
+}
